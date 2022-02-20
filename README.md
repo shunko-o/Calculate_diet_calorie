@@ -1,6 +1,6 @@
 ### 減量をする際の最適なPFCバランスを計算するCLIを作成
-height：身長
-weight：体重
+height：身長  
+weight：体重  
 age：年齢  
 active_level：1日の活動量
 * ほぼ運動しない (基礎代謝 × 1.2)
